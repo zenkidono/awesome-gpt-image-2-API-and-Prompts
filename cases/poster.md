@@ -5862,3 +5862,188 @@ A colossal, highly detailed, realistic anthropomorphic Sun Eagle representing Ar
 <img src="../images/poster_case317/output.jpg" width="500">
 
 ---
+
+---
+### Case 318: Original Anime Dev Board
+
+**Source**: [@HeyAbhishek](https://x.com/HeyAbhishek/status/2060726266182148343)
+
+**Prompt**:
+```
+Create a single vertical anime animation development board for an original emotional short film titled “The Girl and the Paper Boat”.
+The output must be ONE combined image containing:
+1. an anime character design sheet
+2. a cinematic storyboard page
+IMPORTANT:
+Create fully original anime characters.
+Do not imitate Studio Ghibli characters directly.
+Do not resemble any copyrighted anime characters.
+Keep the designs unique, soft, nostalgic, and emotionally warm.
+STYLE:
+Premium anime pre-production board.
+Mix loose hand-drawn storyboard sketches with beautiful semi-rendered anime keyframes.
+Use soft watercolor-style anime lighting, warm sunset colors, gentle shadows, red storyboard borders, blue motion arrows, handwritten production notes, timing notes, and lens notes.
+The board should feel like a real anime studio planning sheet.
+LAYOUT:
+Clean vertical composition with 2 sections.
+SECTION A — CHARACTER DESIGN SHEET
+Girl:
+A gentle anime girl with soft dark hair tied in a loose short ponytail, warm brown eyes, soft round facial features, and a peaceful expression.
+She wears:
+- a light cream summer blouse
+- a faded sky-blue skirt
+- white socks
+- simple brown shoes
+- a small cloth shoulder bag
+She should feel:
+quiet, kind, nostalgic, peaceful, emotionally warm.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: thoughtful, soft smile, emotional, calm
+- pose holding a folded paper boat
+- pose kneeling by a pond
+- pose sitting beside the cat
+Cat:
+A tiny fluffy orange-and-white village cat with soft fur, big expressive eyes, tiny paws, and a curious innocent look.
+The cat should feel:
+curious, playful, comforting, peaceful.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: curious, playful, sleepy, trusting
+- sitting pose
+- pawing at paper boat pose
+- curled resting pose beside the girl
+Add tiny handwritten notes and soft pastel anime color swatches.
+SECTION B — STORYBOARD
+Create 8 cinematic anime storyboard panels arranged in a neat grid.
+Keep character designs consistent across all panels.
+Each panel should include handwritten camera notes, blue motion arrows, timing notes, and lens notes.
+STORY BEATS:
+1. Wide shot of a peaceful old anime village on a mountain at golden hour, with a pond in the foreground and the whole village visible below.
+2. The girl sits beside the pond folding a paper boat while a tiny cat watches beside her.
+3. Close-up of the girl gently placing the paper boat onto the still pond water.
+4. The paper boat begins floating slowly across the pond, creating soft ripples.
+5. The cat walks along the pond edge and reaches a paw toward the floating paper boat.
+6. The girl smiles softly while watching the cat play near the boat.
+7. The girl sits quietly with the cat beside her as they watch the paper boat drift across the pond.
+8. Wide emotional ending shot from the mountain viewpoint showing the girl and cat near the pond, with the full old village below, warm sunset light, and a peaceful nostalgic atmosphere.
+ENVIRONMENT:
+Old anime mountain village.
+Visible village rooftops and narrow streets below.
+Small quiet pond near the mountain edge.
+Stone path.
+Wooden fences.
+Soft grass.
+Warm golden sunset.
+Gentle breeze.
+Peaceful nostalgic countryside atmosphere.
+FINAL GOAL:
+Make this feel like a beautiful emotional anime film development board with calm old-village nostalgia, peaceful healing energy, and cinematic storytelling.
+```
+
+**Output**:
+
+<img src="../images/poster_case318/output.jpg" width="500">
+
+---
+### Case 319: Minimalist Automotive Poster Template
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2060905652726427740)
+
+**Prompt**:
+```
+Create a premium minimalist automotive poster for [CAR NAME / MODEL], inspired by luxury editorial car advertisements.
+
+Use a clean vertical 9:16 Instagram Reels/Story composition with a bold solid color background in [BACKGROUND COLOR]. The background color should match the car's personality, brand identity, era, and mood.
+
+Place the car as the main subject in the lower-middle area. The car should look realistic, premium, sharp, glossy, and detailed, with accurate proportions, clean reflections, crisp edges, studio-quality lighting, and a natural shadow under the vehicle.
+
+Behind the car, add huge oversized typography showing the car model name: "[BIG WORD]".
+
+Typography Direction:
+
+Choose a typography style that matches the personality, era, and design language of the car. Do not use the same tall bold font every time.
+
+Randomly select or intelligently choose one typography style:
+
+Tall condensed bold font for luxury sedans, SUVs, and classic premium cars
+
+Wide futuristic font for hypercars, EVs, and concept cars
+
+Aggressive sharp angular font for sports cars and performance cars
+
+Retro serif or vintage poster font for classic cars
+
+Elegant thin luxury serif font for premium luxury cars
+
+Creative cursive/script font for stylish lifestyle cars or heritage editions
+
+Glitch/distorted digital font for cyberpunk, electric, futuristic, or modified cars
+
+Rugged industrial stencil font for off-road SUVs and adventure vehicles
+
+Racing decal-style typography for track cars, rally cars, and supercars
+
+Minimal clean geometric sans-serif for modern EVs and clean luxury cars
+
+The large background typography should feel unique to the car, not generic.
+
+It may be oversized, stretched, stacked, angled, partially cropped, transparent, outlined, embossed, shadowed, layered, or blended into the background depending on the car theme.
+
+Add small spaced-out brand text at the top: "[BRAND NAME]". Keep enough empty space at the top and sides for a clean premium layout.
+
+Style: luxury automotive poster, minimalist editorial layout, high-end car magazine aesthetic, realistic car render, clean shadow, bold color contrast, premium typography, no extra objects, no people, no clutter.
+
+Aspect ratio: 9:16
+```
+
+**Output**:
+
+<img src="../images/poster_case319/output.jpg" width="500">
+
+---
+### Case 320: Watercolor European Travel Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060938882146082935)
+
+**Prompt**:
+```
+Elegant European city street travel poster, delicate watercolor and ink sketch illustration, hand-drawn architectural linework, soft pastel washes, urban streetscape with historic buildings, charming cafés, pedestrians strolling, outdoor terraces, detailed balconies, trees and flower boxes, loose expressive brushstrokes, architectural journal sketch style, travel diary aesthetic, white paper texture, minimal background, subtle paint splashes, fine pen outlines, sophisticated composition, light and airy atmosphere, vintage travel book illustration, high-detail watercolor rendering, muted earthy palette, European old-town charm, artistic perspective drawing, editorial illustration, premium stationery art, museum-quality watercolor, clean negative space, handwritten calligraphy title at the top, elegant typography, travel magazine cover design, masterpiece, ultra-detailed, 8k.
+```
+
+**Output**:
+
+<img src="../images/poster_case320/output.jpg" width="500">
+
+---
+### Case 321: Surreal Inner Self Editorial Poster
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2060921933550817712)
+
+**Prompt**:
+```
+A hyper-realistic young man sitting inside the open cavity of a massive realistic human chest sculpture shaped like himself. The chest is hollow like a room, with soft fabric textures and dim ambient light inside. He wears cream cargo pants, a fitted white tank top, and vintage sneakers, staring downward thoughtfully.
+
+Background is an empty matte gray studio with lots of negative space.
+
+Typography:
+
+* Thin handwritten text: “I KEEP SEARCHING”
+* Huge stretched typography: “MYSELF”
+* Smaller type underneath: “BUT EVERY DOOR LEADS BACK TO ME”
+
+Soft moody lighting, introspective atmosphere, luxury fashion campaign style, surreal emotional storytelling, ultra detailed, 8k realism. Generate
+```
+
+**Output**:
+
+<img src="../images/poster_case321/output.jpg" width="500">
+
+
+---

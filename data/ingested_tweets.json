@@ -6625,6 +6625,86 @@
       "case_number": 161,
       "suggested_title": "Sitcom Intro Storyboard Sheet",
       "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/HeyAbhishek/status/2060726266182148343",
+      "author_handle": "HeyAbhishek",
+      "title": "Original Anime Dev Board",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-318-original-anime-dev-board",
+      "image_dir": "images/poster_case318",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2060905652726427740",
+      "author_handle": "harboriis",
+      "title": "Minimalist Automotive Poster Template",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-319-minimalist-automotive-poster-template",
+      "image_dir": "images/poster_case319",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2060938882146082935",
+      "author_handle": "Taaruk_",
+      "title": "Watercolor European Travel Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-320-watercolor-european-travel-poster",
+      "image_dir": "images/poster_case320",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Sheldon056/status/2060921933550817712",
+      "author_handle": "Sheldon056",
+      "title": "Surreal Inner Self Editorial Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-321-surreal-inner-self-editorial-poster",
+      "image_dir": "images/poster_case321",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ciri_ai/status/2060938931588472932",
+      "author_handle": "Ciri_ai",
+      "title": "Brand Identity Guideline Board",
+      "category": "UI Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-162-brand-identity-guideline-board",
+      "image_dir": "images/ui_case162",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2060752935588630990",
+      "author_handle": "Taaruk_",
+      "title": "Dreamy Japanese Summer Portrait",
+      "category": "Portrait Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-259-dreamy-japanese-summer-portrait",
+      "image_dir": "images/portrait_case259",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/AvelyrahnAI/status/2060732082599743586",
+      "author_handle": "AvelyrahnAI",
+      "title": "Grunge Fashion Editorial Collage",
+      "category": "Portrait Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-260-grunge-fashion-editorial-collage",
+      "image_dir": "images/portrait_case260",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2060959441889948116",
+      "author_handle": "Mind_Boticni",
+      "title": "Pop-Fashion Photobooth Strips",
+      "category": "Portrait Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-261-pop-fashion-photobooth-strips",
+      "image_dir": "images/portrait_case261",
+      "added_at": "2026-05-31T08:15:12.410999+00:00"
     }
   ],
   "generated_at": "2026-05-11T10:00:00+08:00"

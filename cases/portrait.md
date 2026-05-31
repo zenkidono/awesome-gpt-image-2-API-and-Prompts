@@ -4392,3 +4392,55 @@ Young Korean woman in ultra-realistic style in the uploaded image, elegant colla
 <img src="../images/portrait_case258/output.jpg" width="500">
 
 ---
+
+---
+### Case 259: Dreamy Japanese Summer Portrait
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060752935588630990)
+
+**Prompt**:
+```
+Ultra-cinematic Japanese street photography,
+dreamy summer afternoon in a quiet suburban neighborhood, beautiful young woman standing among vibrant wildflowers and orange cosmos flowers, towering cumulus clouds filling the sky, huge rainbow arching overhead, warm golden hour sunlight, nostalgic anime-inspired atmosphere, soft wind moving hair, candid pose looking into the distance, utility poles and power lines creating urban Japanese aesthetics, shallow depth of field, foreground flower bokeh, rich colors, Kodak Portra 400 film look, dreamy glow, volumetric lighting, natural skin tones, highly detailed face, environmental portrait, low-angle composition, storytelling photography, cozy summer mood, cinematic color grading, photorealistic, masterpiece, 85mm lens, f/1.8, HDR, ultra detailed, soft bloom, realistic shadows, vibrant yet natural tones, editorial fashion photography, Instagram-worthy aesthetic, 8k.
+```
+
+**Output**:
+
+<img src="../images/portrait_case259/output.jpg" width="500">
+
+---
+### Case 260: Grunge Fashion Editorial Collage
+
+**Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2060732082599743586)
+
+**Prompt**:
+```
+A high-fashion editorial portrait of a stylish woman with a long, thick French side-braid hair, wearing sleek black designer sunglasses, a premium oversized beige t-shirt tucked into tailored beige trousers. She is wearing a minimalist thick gold chain necklace and a luxury silver watch, posing elegantly with one hand gently touching the back of her neck and looking away with a confident smile.The background is a creative grunge black-and-white collage art featuring a Pegasus illustration, a vintage police car, a classic Chanel perfume bottle, newspaper textures, and vinyl records with white sticker cutout borders. Cinematic studio lighting, sharp focus, magazine cover aesthetic, 8K resolution.
+```
+
+**Output**:
+
+<img src="../images/portrait_case260/output.jpg" width="500">
+
+---
+### Case 261: Pop-Fashion Photobooth Strips
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2060959441889948116)
+
+**Prompt**:
+```
+Photorealistic modern pop-fashion photobooth strip arrangement placed on a colorful gradient acrylic desk, top-down cinematic view. Three strips with SAME stylish young woman, consistent identity in all portraits.
+
+Left strip: powerful direct gaze, edgy fashion pose, slightly tilted head, confident attitude.
+Center strip: warm natural smile, candid moment, soft laughing expression, relaxed elegance.
+Right strip: artistic over-the-shoulder glance, calm eyes-closed pose, reflective dreamy look, gentle emotion.
+
+Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlights, ultra-clean studio lighting, glossy printed strips with crisp edges. Modern props like LED lights, fashion magazines, aesthetic accessories, and minimal luxury items. High-fashion digital editorial vibe, colorful, trendy, visually striking composition.
+```
+
+**Output**:
+
+<img src="../images/portrait_case261/output.jpg" width="500">
+
+
+---

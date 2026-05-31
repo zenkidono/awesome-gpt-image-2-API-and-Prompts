@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![583 Curated Prompts](https://img.shields.io/badge/Prompts-589_Curated_Cases-111111)](README.md)
+[![680 Curated Prompts](https://img.shields.io/badge/Prompts-680_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -1565,6 +1565,7 @@ Scene/backdrop: Incheon airport observation deck near a glass wall, pale runway 
 
 Wardrobe: oversized crisp white shirt loosely open at collar, light wash denim shorts, white sneakers.
 ```
+<!-- Case 258: Korean Fashion Collage Poster (by @saniaspeaks_) -->
 ### Case 258: Korean Fashion Collage Poster
 
 **Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2059447270115029120)
@@ -1577,6 +1578,57 @@ Young Korean woman in ultra-realistic style in the uploaded image, elegant colla
 **Output**:
 
 <img src="images/portrait_case258/output.jpg" width="500">
+
+<!-- Case 259: Dreamy Japanese Summer Portrait (by @Taaruk_) -->
+### Case 259: Dreamy Japanese Summer Portrait
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060752935588630990)
+
+**Prompt**:
+```
+Ultra-cinematic Japanese street photography,
+dreamy summer afternoon in a quiet suburban neighborhood, beautiful young woman standing among vibrant wildflowers and orange cosmos flowers, towering cumulus clouds filling the sky, huge rainbow arching overhead, warm golden hour sunlight, nostalgic anime-inspired atmosphere, soft wind moving hair, candid pose looking into the distance, utility poles and power lines creating urban Japanese aesthetics, shallow depth of field, foreground flower bokeh, rich colors, Kodak Portra 400 film look, dreamy glow, volumetric lighting, natural skin tones, highly detailed face, environmental portrait, low-angle composition, storytelling photography, cozy summer mood, cinematic color grading, photorealistic, masterpiece, 85mm lens, f/1.8, HDR, ultra detailed, soft bloom, realistic shadows, vibrant yet natural tones, editorial fashion photography, Instagram-worthy aesthetic, 8k.
+```
+
+**Output**:
+
+<img src="images/portrait_case259/output.jpg" width="500">
+
+---
+<!-- Case 260: Grunge Fashion Editorial Collage (by @AvelyrahnAI) -->
+### Case 260: Grunge Fashion Editorial Collage
+
+**Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2060732082599743586)
+
+**Prompt**:
+```
+A high-fashion editorial portrait of a stylish woman with a long, thick French side-braid hair, wearing sleek black designer sunglasses, a premium oversized beige t-shirt tucked into tailored beige trousers. She is wearing a minimalist thick gold chain necklace and a luxury silver watch, posing elegantly with one hand gently touching the back of her neck and looking away with a confident smile.The background is a creative grunge black-and-white collage art featuring a Pegasus illustration, a vintage police car, a classic Chanel perfume bottle, newspaper textures, and vinyl records with white sticker cutout borders. Cinematic studio lighting, sharp focus, magazine cover aesthetic, 8K resolution.
+```
+
+**Output**:
+
+<img src="images/portrait_case260/output.jpg" width="500">
+
+---
+<!-- Case 261: Pop-Fashion Photobooth Strips (by @Mind_Boticni) -->
+### Case 261: Pop-Fashion Photobooth Strips
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2060959441889948116)
+
+**Prompt**:
+```
+Photorealistic modern pop-fashion photobooth strip arrangement placed on a colorful gradient acrylic desk, top-down cinematic view. Three strips with SAME stylish young woman, consistent identity in all portraits.
+
+Left strip: powerful direct gaze, edgy fashion pose, slightly tilted head, confident attitude.
+Center strip: warm natural smile, candid moment, soft laughing expression, relaxed elegance.
+Right strip: artistic over-the-shoulder glance, calm eyes-closed pose, reflective dreamy look, gentle emotion.
+
+Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlights, ultra-clean studio lighting, glossy printed strips with crisp edges. Modern props like LED lights, fashion magazines, aesthetic accessories, and minimal luxury items. High-fashion digital editorial vibe, colorful, trendy, visually striking composition.
+```
+
+**Output**:
+
+<img src="images/portrait_case261/output.jpg" width="500">
 
 
 ## 🎨 Poster & Illustration Cases
@@ -2656,6 +2708,7 @@ Create a high-impact professional basketball poster design for a fictional live 
 ```
 把我生成这张照片女主角的角色卡片：包含正面侧面背面三视图，以及多表情面部特写，和手部不同动作的特写，保持女主角的外貌发型身材服饰气质完全不变
 ```
+<!-- Case 314: Roland Garros Tennis Trailer (by @egeberkina) -->
 ### Case 314: Roland Garros Tennis Trailer
 
 **Source**: [@egeberkina](https://x.com/egeberkina/status/2059311137808675128)
@@ -2668,6 +2721,7 @@ Ultra cinematic 15-second tennis commercial for Roland Garros 2026. Hand-drawn i
 **Output**:
 
 <img src="images/poster_case314/output.jpg" width="500">
+<!-- Case 315: Papercut Chibi Diorama (by @Taaruk_) -->
 ### Case 315: Papercut Chibi Diorama
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2059317825026904533)
@@ -2680,6 +2734,7 @@ Cute layered paper-cut art style illustration of a chibi girl with big expressiv
 **Output**:
 
 <img src="images/poster_case315/output.jpg" width="500">
+<!-- Case 317: Eagle vs Lion Stadium Clash (by @guicastellanos1) -->
 ### Case 317: Eagle vs Lion Stadium Clash
 
 **Source**: [@guicastellanos1](https://x.com/guicastellanos1/status/2059304406290505820)
@@ -2692,6 +2747,191 @@ A colossal, highly detailed, realistic anthropomorphic Sun Eagle representing Ar
 **Output**:
 
 <img src="images/poster_case317/output.jpg" width="500">
+
+<!-- Case 318: Original Anime Dev Board (by @HeyAbhishek) -->
+### Case 318: Original Anime Dev Board
+
+**Source**: [@HeyAbhishek](https://x.com/HeyAbhishek/status/2060726266182148343)
+
+**Prompt**:
+```
+Create a single vertical anime animation development board for an original emotional short film titled “The Girl and the Paper Boat”.
+The output must be ONE combined image containing:
+1. an anime character design sheet
+2. a cinematic storyboard page
+IMPORTANT:
+Create fully original anime characters.
+Do not imitate Studio Ghibli characters directly.
+Do not resemble any copyrighted anime characters.
+Keep the designs unique, soft, nostalgic, and emotionally warm.
+STYLE:
+Premium anime pre-production board.
+Mix loose hand-drawn storyboard sketches with beautiful semi-rendered anime keyframes.
+Use soft watercolor-style anime lighting, warm sunset colors, gentle shadows, red storyboard borders, blue motion arrows, handwritten production notes, timing notes, and lens notes.
+The board should feel like a real anime studio planning sheet.
+LAYOUT:
+Clean vertical composition with 2 sections.
+SECTION A — CHARACTER DESIGN SHEET
+Girl:
+A gentle anime girl with soft dark hair tied in a loose short ponytail, warm brown eyes, soft round facial features, and a peaceful expression.
+She wears:
+- a light cream summer blouse
+- a faded sky-blue skirt
+- white socks
+- simple brown shoes
+- a small cloth shoulder bag
+She should feel:
+quiet, kind, nostalgic, peaceful, emotionally warm.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: thoughtful, soft smile, emotional, calm
+- pose holding a folded paper boat
+- pose kneeling by a pond
+- pose sitting beside the cat
+Cat:
+A tiny fluffy orange-and-white village cat with soft fur, big expressive eyes, tiny paws, and a curious innocent look.
+The cat should feel:
+curious, playful, comforting, peaceful.
+Show:
+- front view
+- side profile
+- back view
+- 3/4 angle
+- expressions: curious, playful, sleepy, trusting
+- sitting pose
+- pawing at paper boat pose
+- curled resting pose beside the girl
+Add tiny handwritten notes and soft pastel anime color swatches.
+SECTION B — STORYBOARD
+Create 8 cinematic anime storyboard panels arranged in a neat grid.
+Keep character designs consistent across all panels.
+Each panel should include handwritten camera notes, blue motion arrows, timing notes, and lens notes.
+STORY BEATS:
+1. Wide shot of a peaceful old anime village on a mountain at golden hour, with a pond in the foreground and the whole village visible below.
+2. The girl sits beside the pond folding a paper boat while a tiny cat watches beside her.
+3. Close-up of the girl gently placing the paper boat onto the still pond water.
+4. The paper boat begins floating slowly across the pond, creating soft ripples.
+5. The cat walks along the pond edge and reaches a paw toward the floating paper boat.
+6. The girl smiles softly while watching the cat play near the boat.
+7. The girl sits quietly with the cat beside her as they watch the paper boat drift across the pond.
+8. Wide emotional ending shot from the mountain viewpoint showing the girl and cat near the pond, with the full old village below, warm sunset light, and a peaceful nostalgic atmosphere.
+ENVIRONMENT:
+Old anime mountain village.
+Visible village rooftops and narrow streets below.
+Small quiet pond near the mountain edge.
+Stone path.
+Wooden fences.
+Soft grass.
+Warm golden sunset.
+Gentle breeze.
+Peaceful nostalgic countryside atmosphere.
+FINAL GOAL:
+Make this feel like a beautiful emotional anime film development board with calm old-village nostalgia, peaceful healing energy, and cinematic storytelling.
+```
+
+**Output**:
+
+<img src="images/poster_case318/output.jpg" width="500">
+
+---
+<!-- Case 319: Minimalist Automotive Poster Template (by @harboriis) -->
+### Case 319: Minimalist Automotive Poster Template
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2060905652726427740)
+
+**Prompt**:
+```
+Create a premium minimalist automotive poster for [CAR NAME / MODEL], inspired by luxury editorial car advertisements.
+
+Use a clean vertical 9:16 Instagram Reels/Story composition with a bold solid color background in [BACKGROUND COLOR]. The background color should match the car's personality, brand identity, era, and mood.
+
+Place the car as the main subject in the lower-middle area. The car should look realistic, premium, sharp, glossy, and detailed, with accurate proportions, clean reflections, crisp edges, studio-quality lighting, and a natural shadow under the vehicle.
+
+Behind the car, add huge oversized typography showing the car model name: "[BIG WORD]".
+
+Typography Direction:
+
+Choose a typography style that matches the personality, era, and design language of the car. Do not use the same tall bold font every time.
+
+Randomly select or intelligently choose one typography style:
+
+Tall condensed bold font for luxury sedans, SUVs, and classic premium cars
+
+Wide futuristic font for hypercars, EVs, and concept cars
+
+Aggressive sharp angular font for sports cars and performance cars
+
+Retro serif or vintage poster font for classic cars
+
+Elegant thin luxury serif font for premium luxury cars
+
+Creative cursive/script font for stylish lifestyle cars or heritage editions
+
+Glitch/distorted digital font for cyberpunk, electric, futuristic, or modified cars
+
+Rugged industrial stencil font for off-road SUVs and adventure vehicles
+
+Racing decal-style typography for track cars, rally cars, and supercars
+
+Minimal clean geometric sans-serif for modern EVs and clean luxury cars
+
+The large background typography should feel unique to the car, not generic.
+
+It may be oversized, stretched, stacked, angled, partially cropped, transparent, outlined, embossed, shadowed, layered, or blended into the background depending on the car theme.
+
+Add small spaced-out brand text at the top: "[BRAND NAME]". Keep enough empty space at the top and sides for a clean premium layout.
+
+Style: luxury automotive poster, minimalist editorial layout, high-end car magazine aesthetic, realistic car render, clean shadow, bold color contrast, premium typography, no extra objects, no people, no clutter.
+
+Aspect ratio: 9:16
+```
+
+**Output**:
+
+<img src="images/poster_case319/output.jpg" width="500">
+
+---
+<!-- Case 320: Watercolor European Travel Poster (by @Taaruk_) -->
+### Case 320: Watercolor European Travel Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060938882146082935)
+
+**Prompt**:
+```
+Elegant European city street travel poster, delicate watercolor and ink sketch illustration, hand-drawn architectural linework, soft pastel washes, urban streetscape with historic buildings, charming cafés, pedestrians strolling, outdoor terraces, detailed balconies, trees and flower boxes, loose expressive brushstrokes, architectural journal sketch style, travel diary aesthetic, white paper texture, minimal background, subtle paint splashes, fine pen outlines, sophisticated composition, light and airy atmosphere, vintage travel book illustration, high-detail watercolor rendering, muted earthy palette, European old-town charm, artistic perspective drawing, editorial illustration, premium stationery art, museum-quality watercolor, clean negative space, handwritten calligraphy title at the top, elegant typography, travel magazine cover design, masterpiece, ultra-detailed, 8k.
+```
+
+**Output**:
+
+<img src="images/poster_case320/output.jpg" width="500">
+
+---
+<!-- Case 321: Surreal Inner Self Editorial Poster (by @Sheldon056) -->
+### Case 321: Surreal Inner Self Editorial Poster
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2060921933550817712)
+
+**Prompt**:
+```
+A hyper-realistic young man sitting inside the open cavity of a massive realistic human chest sculpture shaped like himself. The chest is hollow like a room, with soft fabric textures and dim ambient light inside. He wears cream cargo pants, a fitted white tank top, and vintage sneakers, staring downward thoughtfully.
+
+Background is an empty matte gray studio with lots of negative space.
+
+Typography:
+
+* Thin handwritten text: “I KEEP SEARCHING”
+* Huge stretched typography: “MYSELF”
+* Smaller type underneath: “BUT EVERY DOOR LEADS BACK TO ME”
+
+Soft moody lighting, introspective atmosphere, luxury fashion campaign style, surreal emotional storytelling, ultra detailed, 8k realism. Generate
+```
+
+**Output**:
+
+<img src="images/poster_case321/output.jpg" width="500">
 
 
 ## 🧍 Character Design Cases
@@ -3019,6 +3259,7 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 ```
 Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
 ```
+<!-- Case 161: Sitcom Intro Storyboard Sheet (by @KimAkiyama81) -->
 ### Case 161: [Sitcom Intro Storyboard Sheet](https://x.com/KimAkiyama81/status/2059390326578511931) (by [@KimAkiyama81](https://x.com/KimAkiyama81))
 
 | Output |
@@ -3029,6 +3270,23 @@ Create a Tarot card based on what you know about me, in the classic style of Rid
 
 ```
 Create a professional film production storyboard for a 15-second sitcom intro montage in a premium pitch deck presentation. Use multi-panel storyboard sheet layout, cinematic 16:9 framing per panel, clean panel borders, shot descriptions beneath each frame, timing notes, and transition indicators between panels. Maintain strict character consistency for Super Mei, Edvard, and Fenrir across all panels. Include a complete sequence of title flash, living room, backyard walkies, kitchen powers, convenience store raid, monster battle, bonus domestic comedy beats, closing hero shot, and logo slam. Visual style: cinematic sitcom, high-budget live-action network comedy, production-ready fidelity, not animated or illustrated.
+```
+
+<!-- Case 162: Brand Identity Guideline Board (by @Ciri_ai) -->
+### Case 162: [Brand Identity Guideline Board](https://x.com/Ciri_ai/status/2060938931588472932) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case162/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Guideline Board"></a> |
+
+**Prompt:**
+
+```
+Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster. ---  OBJECTIVE Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio.
+
+The result must feel commercial, realistic, and client-deliverable, not conceptual. ---  INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING) Before designing, analyze the logo and infer:3 identity traits (based on analysis) ---  COLOR SYSTEM (SMART GENERATION) Extract palette from logo automatically Include: Primary colors (3–5) Secondary colors (3–5) Accent colors Each must show: HEX codes labeled usage (primary / UI / highlight / background) Also generate: gradients color combinations tonal
+
+variations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style based on brand: luxury → elegant serif tech → geometric sans street → bold condensed
 ```
 
 
@@ -3241,6 +3499,7 @@ Footer:
 •LIGHT & STYLE: warm golden Saturday morning light, fluffy pancake golds, rich amber maple syrup, fresh blueberry blues, bright pink t-shirt, creamy batter whites, Pixar vivid warm colors throughout
 •DAD NOTES: one dad, one Saturday, one very happy girl in a pink t-shirt. Golden, fluffy, and made with love.​​​​​​​​​​​​​​​​
 ```
+<!-- Case 89: Solar Desert Worldbuilding Kit (by @iamaiistudio) -->
 ### Case 89: [Solar Desert Worldbuilding Kit](https://x.com/iamaiistudio/status/2059335346861781102) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
