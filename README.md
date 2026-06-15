@@ -49,7 +49,6 @@ curl --request POST \
 
 - [🍌 Introduction](#-introduction)
 - [❓ What is GPT Image 2](#-what-is-gpt-image-2)
-- [📰 News](#-news)
 - [🔌 Use GPT Image 2 API](#-use-gpt-image-2-api)
 - [🛒 E-commerce Cases](#-e-commerce-cases)
 - [📣 Ad Creative Cases](#-ad-creative-cases)
@@ -100,81 +99,6 @@ Native support for aspect ratios, transparency, and batch generation
 Works with OpenAI's standard API format (`/v1/images/generations`)
 
 > Learn more about using the API in the Use GPT Image 2 API section below.
-
-## 📰 News
-
-**June 15, 2026:** Added 9 new GPT-Image-2 prompt cases (4 ad creative, 3 poster, 1 portrait, 1 ui) from the image prompt update loop after semantic review and media validation
-
-**June 14, 2026:** Added 14 new GPT-Image-2 prompt cases (9 poster, 2 ad creative, 1 character, 1 UI, 1 comparison) from the image prompt update loop after semantic review and media validation
-
-**June 12, 2026:** Added 42 new GPT-Image-2 prompt cases (19 portrait, 12 poster, 4 ad-creative, 4 character, 2 comparison, 1 ecommerce) from daily curation batch after approval and media validation; 2 approved candidates were skipped because the tweet lookup returned no usable media
-
-**June 10, 2026:** Added 31 new GPT-Image-2 prompt cases (9 portrait, 21 poster, 1 comparison) from daily curation batch after review and media validation
-
-**June 9, 2026:** Added 12 new GPT-Image-2 prompt cases (2 portrait, 7 poster, 2 comparison, 1 ecommerce) from daily curation batch after review and media validation
-
-**June 8, 2026:** Added 24 new GPT-Image-2 prompt cases (5 portrait, 7 poster, 5 ui, 3 ecommerce, 4 comparison) from the daily curation batch after approval, thread recovery, and media validation
-
-**June 7, 2026:** Added 19 new GPT-Image-2 prompt cases (2 portrait, 6 poster, 5 ui, 4 ecommerce, 2 comparison) from daily curation batch after review and media validation
-
-**June 6, 2026:** Added 14 new GPT-Image-2 prompt cases (6 poster, 4 ui, 4 comparison) from daily curation batch after review and media validation
-
-**June 4, 2026:** Added 17 new GPT-Image-2 prompt cases (2 portrait, 8 poster, 5 ui, 1 ad creative, 1 character) from daily curation batch after review and media validation
-
-**June 2, 2026:** Added 9 new GPT-Image-2 prompt cases (3 portrait, 5 poster, 1 ui) from daily curation batch after review and media validation
-
-**May 31, 2026:** Added 8 new GPT-Image-2 prompt cases (3 portrait, 4 poster, 1 ui) from daily curation batch after review and media validation
-
-**May 27, 2026:** Added 6 new GPT-Image-2 prompt cases (1 portrait, 3 poster, 1 ui, 1 comparison) from daily curation batch after review and media validation
-
-- **2026-05-22**: Added 38 new prompts — Portrait & Photography, Poster & Illustration
-
-**May 20, 2026:** Added 16 new GPT-Image-2 prompt cases (11 portrait, 5 poster) from daily curation batch
-
-**May 19, 2026:** Added 23 new GPT-Image-2 prompt cases (13 portrait, 8 poster, 2 ui) from daily curation batch
-
-
-**May 17, 2026:** Added 17 new GPT-Image-2 prompt cases (5 portrait, 5 poster, 2 ui, 2 comparison, 3 ad creative) from daily curation batch
-
-**May 14, 2026:** Added 19 new GPT-Image-2 prompt cases (3 portrait, 10 poster, 4 ui, 1 comparison, 1 ad creative) from daily curation batch
-
-**May 13, 2026:** Added 19 new GPT-Image-2 prompt cases (3 portrait, 10 poster, 1 ui, 1 comparison, 4 ad creative) from daily curation batch
-
-**May 12, 2026:** Added 12 new GPT-Image-2 prompt cases (2 portrait, 9 poster, 1 ui) from daily curation batch
-
-**May 11, 2026:** Added 16 new GPT-Image-2 prompt cases (5 portrait, 8 poster, 3 ad creative) from daily curation batch
-
-**May 10, 2026:** Added 19 new GPT-Image-2 prompt cases (4 portrait, 11 poster, 3 ui, 1 comparison) from daily curation batch
-
-**May 9, 2026:** Added 19 new GPT-Image-2 prompt cases (6 portrait, 12 poster, 1 comparison) from daily curation batch
-
-**May 8, 2026:** Added 36 new GPT-Image-2 prompt cases (24 portrait, 6 poster, 6 ui) from daily curation batch
-**May 7, 2026:** Added 20 new GPT-Image-2 prompt cases (10 portrait, 9 poster, 1 ui) from daily curation batch
-**May 6, 2026:** Added 7 new GPT-Image-2 prompt cases (2 portrait, 5 poster) from daily curation batch after review and media validation
-**May 5, 2026:** Added 12 new GPT-Image-2 prompt cases from today's approved curation batch (4 portrait, 5 poster, 3 ui) after review and media validation
-**May 3, 2026:** Added 10 new GPT-Image-2 prompt cases from the daily approved batch (1 e-commerce, 1 ad creative, 3 portrait, 2 poster, 3 ui) after review and media validation
-
-<details>
-<summary>📜 Older Updates</summary>
-
-**May 2, 2026:** Added 18 new GPT-Image-2 prompt cases from the last 48-hour search batch (3 portrait, 7 poster, 4 ui, 4 comparison) after review and media validation
-**April 30, 2026:** Added 9 new GPT-Image-2 prompt cases from the last 24-hour search batch (3 portrait, 1 poster, 3 ui, 2 comparison) after approval and media validation
-**April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
-**April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
-**April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
-**April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
-**April 23, 2026:** Added 5 new GPT-Image-2 prompt cases (5 ui)
-**April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
-**April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
-**April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
-**April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.
-**April 20, 2026:** Added 2 new GPT-Image-2 prompt cases (1 character, 1 poster)
-**April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
-**April 19, 2026:** Added 5 new GPT-Image-2 prompt cases (3 poster, 2 ui)
-**April 18, 2026:** First repository release with curated GPT-Image-2 case set
-
-</details>
-
 
 ## 🔌 Use GPT Image 2 API
 
