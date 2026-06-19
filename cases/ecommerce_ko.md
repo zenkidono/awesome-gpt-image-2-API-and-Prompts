@@ -562,3 +562,89 @@ Minimalist studio product photography, a small transparent glass facial oil drop
 
 full prompt:
 ```
+
+<!-- Case 174: 성분 강조 아이스크림 광고 (by @iamaiistudio) -->
+### Case 174: [성분 강조 아이스크림 광고](https://x.com/iamaiistudio/status/2067465624683700642) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 성분 강조 아이스크림 광고"></a> |
+
+**프롬프트:**
+
+```
+{
+  "resolution": "8K",
+  "aspect_ratio": "3:4",
+  "image_type": "photorealistic commercial product render",
+  "scene_description": {
+    "main_subject": "A vertically centered ice cream bar mounted on a wooden stick",
+    "orientation": "upright, front-facing, slightly elevated perspective",
+    "composition": "single product centered with surrounding ingredient labels and curved arrows"
+  },
+  "background": {
+    "color": "warm golden-yellow gradient",
+    "texture": "smooth, matte, evenly illuminated",
+    "lighting_falloff": "subtle vignette, darker towards edges"
+  },
+  "lighting": {
+    "type": "studio lighting",
+    "key_light": "soft frontal light emphasizing chocolate gloss",
+    "fill_light": "balanced fill preserving texture detail",
+    "specular_highlights": "visible on melted chocolate coating",
+    "shadows": "soft shadow beneath the stick"
+  },
+  "ice_cream_bar": {
+    "shape": "rounded rectangular bar",
+    "surface": "smooth with visible embedded inclusions",
+    "layers": [
+      {
+        "type": "outer coating",
+        "description": "rich milk chocolate shell",
+        "color": "medium brown",
+        "texture": "slightly glossy with soft melting highlights"
+      },
+      {
+        "type": "main body",
+        "description": "vanilla ice cream",
+        "color": "warm off-white",
+        "texture": "dense and creamy"
+      }
+    ],
+    "inclusions": [
+      "small almond chunks visible through the chocolate coating",
+      "tiny vanilla flecks visible in the ice cream interior"
+    ],
+    "stick": {
+      "material": "light natural wood",
+      "position": "centered below bar"
+    }
+  },
+  "ingredient_callouts": {
+    "style": "clean commercial infographic labels with thin curved arrows pointing to exact areas of the product",
+    "labels": [
+      {
+        "text": "milk chocolate shell",
+        "position": "upper right"
+      },
+      {
+        "text": "vanilla ice cream",
+        "position": "left middle"
+      },
+      {
+        "text": "almond pieces",
+        "position": "lower right"
+      }
+    ]
+  },
+  "branding_style": {
+    "overall_look": "premium supermarket frozen dessert advertisement",
+    "design_language": "clean, appetizing, modern, minimal clutter"
+  },
+  "camera": {
+    "angle": "front-facing with slight downward product perspective",
+    "focus": "sharp across entire product and labels",
+    "framing": "centered vertical composition"
+  }
+}
+```

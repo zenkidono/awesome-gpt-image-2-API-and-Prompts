@@ -8054,3 +8054,38 @@ Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution
 ```
 Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
 ```
+
+<!-- Case 409: 新智能主题社论海报 (by @iamaiistudio) -->
+### Case 409: [新智能主题社论海报](https://x.com/iamaiistudio/status/2067778187644584418) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case409/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 新智能主题社论海报"></a> |
+
+**提示词:**
+
+```
+Award-quality graphic design poster, neo-editorial and contemporary editorial style, D&AD / Awwwards / Behance-level visual impact.
+
+Theme: What's Inside the New Intelligence — The Age of AI.
+
+Build a powerful core visual metaphor for this theme — translate the abstract concept into a sculptural, iconic, installation-like object. The central object should appear cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, carrying clear conceptual meaning rather than decorative ornament.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typographic layout: oversized bold black English headline at the top, secondary subtitle, annotation text, exhibition-style information hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-rendering quality, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: predominantly black, white and gray with a single striking accent color and very limited secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean rendering, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```

@@ -3763,3 +3763,47 @@ Layer crisp Japanese typography integrated like a professional event ad with exa
 
 Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
 ```
+
+---
+### Case 308: Gros plan sur prothese cyborg
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067732972351222060)
+
+**Résultat:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case308/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Gros plan sur prothese cyborg"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic cinematic close-up of a young woman with pale, freckled skin and wet dark hair. Her eyes are vivid blue-green and she wears a silver septum ring.
+Cybernetics: A massive industrial robotic prosthetic arm with worn metal textures, visible wiring, and hydraulic components rests near her face, metallic fingers curved toward her temple.
+A thin cybernetic sensor wire traces across her cheekbone just below the eye.
+Her jawline and neck show embedded steel plating and brushed-metal body augmentations.
+
+Background: Clean, neutral studio setting in muted grey-white.
+Lighting: Soft front-left directional light casting detailed shadows across mechanical joints while catching moisture on skin and lips.
+Mood: Raw, futuristic, and melancholic with a high-end editorial aesthetic.
+Framing: Off-center composition, shallow focus on the eye and robotic hand texture detail.
+Surface detail: Pores clearly visible, individual wet hair strands, scratched and oil-marked metal.
+Color grade: Muted cool palette, high contrast. Photorealistic digital art style.
+```
+
+---
+### Case 309: Portrait ensoleille dans une ruelle mediterraneenne
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067474399431979223)
+
+**Résultat:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case309/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Portrait ensoleille dans une ruelle mediterraneenne"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
+```

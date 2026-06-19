@@ -1270,3 +1270,16 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 ```
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
 ```
+
+<!-- Case 197: 포도 리빌 캔 제품 사진 (by @iamaiistudio) -->
+### Case 197: [포도 리빌 캔 제품 사진](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 포도 리빌 캔 제품 사진"></a> |
+
+**프롬프트:**
+
+```
+Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
+```

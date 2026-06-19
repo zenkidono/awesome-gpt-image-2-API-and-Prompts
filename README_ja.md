@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![889 Curated Prompts](https://img.shields.io/badge/Prompts-889_Curated_Cases-111111)](README.md)
+[![895 Curated Prompts](https://img.shields.io/badge/Prompts-895_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -415,6 +415,92 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
 
 full prompt:
+```
+
+<!-- Case 174: 成分訴求アイスクリーム広告 (by @iamaiistudio) -->
+### Case 174: [成分訴求アイスクリーム広告](https://x.com/iamaiistudio/status/2067465624683700642) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 成分訴求アイスクリーム広告"></a> |
+
+**プロンプト:**
+
+```
+{
+  "resolution": "8K",
+  "aspect_ratio": "3:4",
+  "image_type": "photorealistic commercial product render",
+  "scene_description": {
+    "main_subject": "A vertically centered ice cream bar mounted on a wooden stick",
+    "orientation": "upright, front-facing, slightly elevated perspective",
+    "composition": "single product centered with surrounding ingredient labels and curved arrows"
+  },
+  "background": {
+    "color": "warm golden-yellow gradient",
+    "texture": "smooth, matte, evenly illuminated",
+    "lighting_falloff": "subtle vignette, darker towards edges"
+  },
+  "lighting": {
+    "type": "studio lighting",
+    "key_light": "soft frontal light emphasizing chocolate gloss",
+    "fill_light": "balanced fill preserving texture detail",
+    "specular_highlights": "visible on melted chocolate coating",
+    "shadows": "soft shadow beneath the stick"
+  },
+  "ice_cream_bar": {
+    "shape": "rounded rectangular bar",
+    "surface": "smooth with visible embedded inclusions",
+    "layers": [
+      {
+        "type": "outer coating",
+        "description": "rich milk chocolate shell",
+        "color": "medium brown",
+        "texture": "slightly glossy with soft melting highlights"
+      },
+      {
+        "type": "main body",
+        "description": "vanilla ice cream",
+        "color": "warm off-white",
+        "texture": "dense and creamy"
+      }
+    ],
+    "inclusions": [
+      "small almond chunks visible through the chocolate coating",
+      "tiny vanilla flecks visible in the ice cream interior"
+    ],
+    "stick": {
+      "material": "light natural wood",
+      "position": "centered below bar"
+    }
+  },
+  "ingredient_callouts": {
+    "style": "clean commercial infographic labels with thin curved arrows pointing to exact areas of the product",
+    "labels": [
+      {
+        "text": "milk chocolate shell",
+        "position": "upper right"
+      },
+      {
+        "text": "vanilla ice cream",
+        "position": "left middle"
+      },
+      {
+        "text": "almond pieces",
+        "position": "lower right"
+      }
+    ]
+  },
+  "branding_style": {
+    "overall_look": "premium supermarket frozen dessert advertisement",
+    "design_language": "clean, appetizing, modern, minimal clutter"
+  },
+  "camera": {
+    "angle": "front-facing with slight downward product perspective",
+    "focus": "sharp across entire product and labels",
+    "framing": "centered vertical composition"
+  }
+}
 ```
 
 ## 📣 広告クリエイティブ事例
@@ -966,6 +1052,19 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 
 ```
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
+<!-- Case 197: グレープリビール缶プロダクトショット (by @iamaiistudio) -->
+### Case 197: [グレープリビール缶プロダクトショット](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - グレープリビール缶プロダクトショット"></a> |
+
+**プロンプト:**
+
+```
+Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
 ```
 
 ## 🍌 ポートレート・写真事例
@@ -3243,6 +3342,42 @@ Beautiful young Japanese girl with long straight dark brown hair and soft full b
 A photorealistic close-up portrait of a young girl filling almost the entire frame. Her head is slightly tilted to the side, with her cheek resting against her shoulder and partially hidden inside the long cream-colored sleeve of a hoodie. Long, straight hair with curtain bangs falls freely along the left side of her face, covering one eye.￼ On the visible side of her face, she wears soft makeup: laminated brows, a sharp elongated black winged eyeliner that extends the shape of the eye, matte dusty-pink lips, and a calm, slightly pouting expression. She looks directly into the camera, with visible eyelashes.
 
 A long zip-up hoodie over the one shoulder The composition is intimate and casual, resembling a webcam selfie. The frame has a slight tilt, and the face is positioned very close to the lens. Focus is sharp on the visible eye, lips, hair texture, and the thick cream-colored fabric of the sleeve, while the background fades into a soft blur. Behind her is a simple warm gray-beige wall with no visible details. Warm indoor and screen lighting from the front-left creates soft highlights on the skin and hair. The contrast is moderate, and the color palette is muted, featuring black, beige-gray, and dusty pink tones. The overall image should preserve the authentic feeling of a selfie photograph.
+```
+
+<!-- Case 308: サイボーグ義手のクローズアップ (by @iamaiistudio) -->
+### Case 308: [サイボーグ義手のクローズアップ](https://x.com/iamaiistudio/status/2067732972351222060) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case308/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - サイボーグ義手のクローズアップ"></a> |
+
+**プロンプト:**
+
+```
+Ultra-realistic cinematic close-up of a young woman with pale, freckled skin and wet dark hair. Her eyes are vivid blue-green and she wears a silver septum ring.
+Cybernetics: A massive industrial robotic prosthetic arm with worn metal textures, visible wiring, and hydraulic components rests near her face, metallic fingers curved toward her temple.
+A thin cybernetic sensor wire traces across her cheekbone just below the eye.
+Her jawline and neck show embedded steel plating and brushed-metal body augmentations.
+
+Background: Clean, neutral studio setting in muted grey-white.
+Lighting: Soft front-left directional light casting detailed shadows across mechanical joints while catching moisture on skin and lips.
+Mood: Raw, futuristic, and melancholic with a high-end editorial aesthetic.
+Framing: Off-center composition, shallow focus on the eye and robotic hand texture detail.
+Surface detail: Pores clearly visible, individual wet hair strands, scratched and oil-marked metal.
+Color grade: Muted cool palette, high contrast. Photorealistic digital art style.
+```
+
+<!-- Case 309: 地中海の路地の陽だまりポートレート (by @iamaiistudio) -->
+### Case 309: [地中海の路地の陽だまりポートレート](https://x.com/iamaiistudio/status/2067474399431979223) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case309/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 地中海の路地の陽だまりポートレート"></a> |
+
+**プロンプト:**
+
+```
+Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
 ```
 
 ## 🎨 ポスター・イラスト事例
@@ -7312,6 +7447,41 @@ Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution
 Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
 ```
 
+<!-- Case 409: 新しい知性のエディトリアルポスター (by @iamaiistudio) -->
+### Case 409: [新しい知性のエディトリアルポスター](https://x.com/iamaiistudio/status/2067778187644584418) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case409/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 新しい知性のエディトリアルポスター"></a> |
+
+**プロンプト:**
+
+```
+Award-quality graphic design poster, neo-editorial and contemporary editorial style, D&AD / Awwwards / Behance-level visual impact.
+
+Theme: What's Inside the New Intelligence — The Age of AI.
+
+Build a powerful core visual metaphor for this theme — translate the abstract concept into a sculptural, iconic, installation-like object. The central object should appear cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, carrying clear conceptual meaning rather than decorative ornament.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typographic layout: oversized bold black English headline at the top, secondary subtitle, annotation text, exhibition-style information hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-rendering quality, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: predominantly black, white and gray with a single striking accent color and very limited secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean rendering, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```
+
 ## 🧍 キャラクターデザイン事例
 
 > **12件の厳選ケース** — [すべてのキャラクターデザインプロンプトを見る →](cases/character.md)
@@ -7782,6 +7952,47 @@ Theme color: (color here)
 Height: (height here) cm
 Weight: (weight here) kg
 Catchphrase: "(line here)"
+```
+
+<!-- Case 27: 中世の錬金術師キャラクターシート (by @itsPixieVerse) -->
+### Case 27: [中世の錬金術師キャラクターシート](https://x.com/itsPixieVerse/status/2067750004178215241) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case27/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 中世の錬金術師キャラクターシート"></a> |
+
+**プロンプト:**
+
+```
+Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
+
+[STYLE]: stylized 3D stop-motion claymation style with rich tactile textures of clay, felt, and leather, and warm cinematic studio lighting
+[SUBJECT_DESCRIPTION]: A charming and slightly eccentric traveling medieval alchemist and cartographer. He wears a heavy, oversized patched wool coat over a worn leather tunic, multiple small glowing potion vials and rolled-up parchment scrolls strapped to his utility belt, a wide-brimmed traveler's hat, and thick round brass spectacles. He has a messy, hand-sculpted ginger beard, warm curious eyes, and a friendly smile. He carries an ancient, brass-trimmed leather satchel. His design features exaggerated, whimsical proportions and a cozy, rustic medieval aesthetic.
+
+Create the layout in a clean 16:9 widescreen format on a neutral studio gray or warm off-white background with a minimal technical border. The design must look like a premium production visual bible, using clean typography, no clutter, no watermarks, and no logos. Apply [STYLE] only to the character and visual elements, keeping the presentation layout clean, structured, and minimal.
+
+Infer all missing details from the subject description, including name, role, brief background specs, and a cohesive color palette.
+
+Use this tri-fold layout:
+
+1. HERO SPOTLIGHT (Left 40% of the board)
+- Show one large, highly detailed full-body dynamic action pose of the subject.
+- This pose should showcase the character's primary personality, attitude, and silhouette.
+
+2. TECHNICAL TURNAROUND (Center 35% of the board)
+- Show exactly two clean full-body views: Front View and Back View.
+- The subject should be in a relaxed, neutral stance.
+- Place these views over very subtle vertical and horizontal grid lines resembling a technical schematic blueprint.
+
+3. KEY DETAILS (Right 25% of the board)
+- EXPRESSION TRIO: Exactly 3 large, highly expressive close-up headshots showing core emotional states: Calm/Neutral, Highly Focused/Intense, and a Dynamic/Expressive emotion (like a smirk or fierce grin).
+- GEAR CALLOUTS: Exactly 2 clean, isolated close-up panels showing primary wardrobe textures, signature accessories, or weapons/gear.
+
+4. SPECS & COLOR BANNER (Bottom Edge)
+- A minimalist, horizontal typography block listing Name, Role, Age, and Core Theme.
+- Adjacent to the text, display 5 to 6 clean geometric color swatches showing the character's primary color palette with no labels.
+
+Ensure complete character and costume consistency across all sections. The Hero Spotlight must visually anchor the sheet, offering a clean, open, and professional layout that avoids dense, repetitive, or cluttered grids.
 ```
 
 ## 📱 UI・ソーシャルメディアモックアップ事例

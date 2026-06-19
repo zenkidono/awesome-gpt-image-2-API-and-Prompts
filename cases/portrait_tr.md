@@ -3755,3 +3755,39 @@ A photorealistic close-up portrait of a young girl filling almost the entire fra
 
 A long zip-up hoodie over the one shoulder The composition is intimate and casual, resembling a webcam selfie. The frame has a slight tilt, and the face is positioned very close to the lens. Focus is sharp on the visible eye, lips, hair texture, and the thick cream-colored fabric of the sleeve, while the background fades into a soft blur. Behind her is a simple warm gray-beige wall with no visible details. Warm indoor and screen lighting from the front-left creates soft highlights on the skin and hair. The contrast is moderate, and the color palette is muted, featuring black, beige-gray, and dusty pink tones. The overall image should preserve the authentic feeling of a selfie photograph.
 ```
+
+---
+### Case 308: [Siber protez yakın planı](https://x.com/iamaiistudio/status/2067732972351222060) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case308/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cyborg Prosthetic Close-Up"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic cinematic close-up of a young woman with pale, freckled skin and wet dark hair. Her eyes are vivid blue-green and she wears a silver septum ring.
+Cybernetics: A massive industrial robotic prosthetic arm with worn metal textures, visible wiring, and hydraulic components rests near her face, metallic fingers curved toward her temple.
+A thin cybernetic sensor wire traces across her cheekbone just below the eye.
+Her jawline and neck show embedded steel plating and brushed-metal body augmentations.
+
+Background: Clean, neutral studio setting in muted grey-white.
+Lighting: Soft front-left directional light casting detailed shadows across mechanical joints while catching moisture on skin and lips.
+Mood: Raw, futuristic, and melancholic with a high-end editorial aesthetic.
+Framing: Off-center composition, shallow focus on the eye and robotic hand texture detail.
+Surface detail: Pores clearly visible, individual wet hair strands, scratched and oil-marked metal.
+Color grade: Muted cool palette, high contrast. Photorealistic digital art style.
+```
+
+---
+### Case 309: [Akdeniz sokağında güneşli portre](https://x.com/iamaiistudio/status/2067474399431979223) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case309/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mediterranean Alley Sunlit Portrait"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
+```

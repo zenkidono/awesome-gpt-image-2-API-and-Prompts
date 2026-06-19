@@ -670,3 +670,44 @@ Height: (height here) cm
 Weight: (weight here) kg
 Catchphrase: "(line here)"
 ```
+
+---
+### Case 27: [Ortaçağ simyacısı karakter paftası](https://x.com/itsPixieVerse/status/2067750004178215241) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case27/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Medieval Alchemist Character Sheet"></a> |
+
+**Prompt:**
+
+```
+Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
+
+[STYLE]: stylized 3D stop-motion claymation style with rich tactile textures of clay, felt, and leather, and warm cinematic studio lighting
+[SUBJECT_DESCRIPTION]: A charming and slightly eccentric traveling medieval alchemist and cartographer. He wears a heavy, oversized patched wool coat over a worn leather tunic, multiple small glowing potion vials and rolled-up parchment scrolls strapped to his utility belt, a wide-brimmed traveler's hat, and thick round brass spectacles. He has a messy, hand-sculpted ginger beard, warm curious eyes, and a friendly smile. He carries an ancient, brass-trimmed leather satchel. His design features exaggerated, whimsical proportions and a cozy, rustic medieval aesthetic.
+
+Create the layout in a clean 16:9 widescreen format on a neutral studio gray or warm off-white background with a minimal technical border. The design must look like a premium production visual bible, using clean typography, no clutter, no watermarks, and no logos. Apply [STYLE] only to the character and visual elements, keeping the presentation layout clean, structured, and minimal.
+
+Infer all missing details from the subject description, including name, role, brief background specs, and a cohesive color palette.
+
+Use this tri-fold layout:
+
+1. HERO SPOTLIGHT (Left 40% of the board)
+- Show one large, highly detailed full-body dynamic action pose of the subject.
+- This pose should showcase the character's primary personality, attitude, and silhouette.
+
+2. TECHNICAL TURNAROUND (Center 35% of the board)
+- Show exactly two clean full-body views: Front View and Back View.
+- The subject should be in a relaxed, neutral stance.
+- Place these views over very subtle vertical and horizontal grid lines resembling a technical schematic blueprint.
+
+3. KEY DETAILS (Right 25% of the board)
+- EXPRESSION TRIO: Exactly 3 large, highly expressive close-up headshots showing core emotional states: Calm/Neutral, Highly Focused/Intense, and a Dynamic/Expressive emotion (like a smirk or fierce grin).
+- GEAR CALLOUTS: Exactly 2 clean, isolated close-up panels showing primary wardrobe textures, signature accessories, or weapons/gear.
+
+4. SPECS & COLOR BANNER (Bottom Edge)
+- A minimalist, horizontal typography block listing Name, Role, Age, and Core Theme.
+- Adjacent to the text, display 5 to 6 clean geometric color swatches showing the character's primary color palette with no labels.
+
+Ensure complete character and costume consistency across all sections. The Hero Spotlight must visually anchor the sheet, offering a clean, open, and professional layout that avoids dense, repetitive, or cluttered grids.
+```

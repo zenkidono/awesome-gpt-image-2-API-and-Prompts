@@ -8795,7 +8795,60 @@
       "case_anchor": "",
       "image_dir": "images/ui_case187",
       "added_at": "2026-06-18T03:46:24.361690+00:00"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067778187644584418",
+      "author_handle": "iamaiistudio",
+      "title": "New Intelligence Editorial Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-409",
+      "image_dir": "images/poster_case409"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067750180724855280",
+      "author_handle": "iamaiistudio",
+      "title": "Grape Reveal Can Product Shot",
+      "category": "Ad Creative Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-197",
+      "image_dir": "images/ad-creative_case197"
+    },
+    {
+      "tweet_url": "https://x.com/itsPixieVerse/status/2067750004178215241",
+      "author_handle": "itsPixieVerse",
+      "title": "Medieval Alchemist Character Sheet",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-27",
+      "image_dir": "images/character_case27"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067732972351222060",
+      "author_handle": "iamaiistudio",
+      "title": "Cyborg Prosthetic Close-Up",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-308",
+      "image_dir": "images/portrait_case308"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067474399431979223",
+      "author_handle": "iamaiistudio",
+      "title": "Mediterranean Alley Sunlit Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-309",
+      "image_dir": "images/portrait_case309"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067465624683700642",
+      "author_handle": "iamaiistudio",
+      "title": "Ingredient Callout Ice Cream Ad",
+      "category": "E-commerce Cases",
+      "readme_file": "README.md",
+      "case_anchor": "case-174",
+      "image_dir": "images/ecommerce_case174"
     }
-  ],
-  "generated_at": "2026-06-14T06:51:17.453106+00:00"
+  ]
 }
